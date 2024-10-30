@@ -4,8 +4,11 @@ Já If e else são operadores de condições, caso sejam verdadeira ou falsa .
 
 
 Exemplos de operadores lógicos 
-blob:https://web.whatsapp.com/a4051fca-e61a-48a1-9ea3-86ecc7a84653
+![image](https://github.com/user-attachments/assets/9f6dd472-9100-42f3-a195-54ec244028cb)
+(imagem da página 115 do livro)
+
 
 
 Exemplo de caso de If 
-blob:https://web.whatsapp.com/09fd9de1-dd36-4c75-aea1-c2e40674b3e2
+![image](https://github.com/user-attachments/assets/58402ff1-21bd-4066-9079-d4ff9536f193)
+
