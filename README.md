@@ -1,5 +1,7 @@
 Este capítulo busca introduzir as noções de If e Else ,além dos operadores loógicos , estatégicos e codiçoes complexas. 
+
 Os operadores booleanos servem para criar condições para o código funcionar como uma senha verdadeira deve ser igual a senha do código.
+
 Já If e else são operadores de condições, caso sejam verdadeira ou falsa .
 
 
