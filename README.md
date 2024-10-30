@@ -7,6 +7,7 @@ Já If e else são operadores de condições, caso sejam verdadeira ou falsa .
 
 Exemplos de operadores lógicos 
 ![image](https://github.com/user-attachments/assets/9f6dd472-9100-42f3-a195-54ec244028cb)
+
 (imagem da página 115 do livro)
 
 
