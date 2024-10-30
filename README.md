@@ -1,4 +1,4 @@
-Este capítulo busca introduzir as noções de If e Else ,além dos operadores loógicos , estatégicos e codiçoes complexas. 
+Este capítulo busca introduzir as noções de If e Else ,além dos operadores loógicos , estatégicos e codições complexas. 
 
 Os operadores booleanos servem para criar condições para o código funcionar como uma senha verdadeira deve ser igual a senha do código.
 
