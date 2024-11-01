@@ -79,3 +79,15 @@ O código do arquivo Qualbemvcfoi125cap5.py que lida com as notas dos alunos, te
 
 ![image](https://github.com/user-attachments/assets/8cb744ba-b7f6-4366-bf23-0e7797d21c99)
 
+Exemplo de código:
+gosta = input("Você gosta de compuradores ? (s/n)").lower()
+
+python = input("Gosta da linguagenm de programação pythom? (s/n)").lower()
+
+if(gosta=='s' and python =='s'): 
+    print("Você gosta de computadores e da linguagenm de programação python")
+    
+if(gosta =='s' and python !='s'): 
+    print("Você gosta de computadores e não gosta da linguagenm de programação python")
+    
+
