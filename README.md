@@ -44,20 +44,33 @@ else:
 
 
 *Outra parte essencial deste capítulo é a utilização do Elif , nos casos de uma instruções que precisam verificar mais de dois casos possíveis.*
+
 Exemplo de caso: 
+
 Um código para receber diferentes tipos de locais e armazena-los no local correto.
 
 Exemplo de código : 
+
 if opcao_escolhida == 1:
+
                 print(' Ver restaurantes')
-        elif opcao_escolhida == 2:
-                print('Comprar no restaurante')
-        elif opcao_escolhida == 3:
+
+elif opcao_escolhida == 2:
+
+               print('Comprar no restaurante')
+
+elif opcao_escolhida == 3:
+
                 print('Receber Qrcode ')
-        elif opcao_escolhida == 4:
+                
+elif opcao_escolhida == 4:
+
                 finalizar_app()
-        else:    
+                
+else:    
+
                 opcao_invalida()
 
 Exemplo nos arquivos :
+
 O código do arquivo Qualbemvcfoi125cap5.py que lida com as notas dos alunos, tendo mensagens diferentes para 5 possiveis notas .
