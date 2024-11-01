@@ -74,3 +74,8 @@ else:
 Exemplo nos arquivos :
 
 O código do arquivo Qualbemvcfoi125cap5.py que lida com as notas dos alunos, tendo mensagens diferentes para 5 possiveis notas .
+
+*O código podem também se utilizar de operadores lógicos para atender as necessidades do programa*
+
+![image](https://github.com/user-attachments/assets/8cb744ba-b7f6-4366-bf23-0e7797d21c99)
+
