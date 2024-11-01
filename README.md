@@ -5,7 +5,7 @@ Os operadores booleanos servem para criar condições para o código funcionar c
 Já If e else são operadores de condições, caso sejam verdadeira ou falsa .
 
 
-Exemplos de operadores lógicos
+*Exemplos de operadores lógicos*
 
 ![image](https://github.com/user-attachments/assets/9f6dd472-9100-42f3-a195-54ec244028cb)
 
@@ -13,12 +13,14 @@ Exemplos de operadores lógicos
 
 
 
-Exemplo de caso de If 
+*Exemplo de caso de If *
 
 ![image](https://github.com/user-attachments/assets/58402ff1-21bd-4066-9079-d4ff9536f193)
 
 
-Para situações que a condição do programa seja falsa , utilizamos else como um substituto do if, para se utilizar o comando é necessário a presença do if antes.
+
+*Para situações que a condição do programa seja falsa , utilizamos else como um substituto do if, para se utilizar o comando é necessário a presença do if antes.*
+
 
 Exemplo de caso de Else:
 
@@ -39,3 +41,23 @@ else:
     print("Você não pode dirigir , a diferença entre sua idade e a idade aceitável para dirigir é igual ",dirigir_idade - sua_idade ,"anos")
 
     print("-------------------------------------")
+
+
+*Outra parte essencial deste capítulo é a utilização do Elif , nos casos de uma instruções que precisam verificar mais de dois casos possíveis.*
+Exemplo de caso: 
+Um código para receber diferentes tipos de locais e armazena-los no local correto.
+
+Exemplo de código : 
+if opcao_escolhida == 1:
+                print(' Ver restaurantes')
+        elif opcao_escolhida == 2:
+                print('Comprar no restaurante')
+        elif opcao_escolhida == 3:
+                print('Receber Qrcode ')
+        elif opcao_escolhida == 4:
+                finalizar_app()
+        else:    
+                opcao_invalida()
+
+Exemplo nos arquivos :
+O código do arquivo Qualbemvcfoi125cap5.py que lida com as notas dos alunos, tendo mensagens diferentes para 5 possiveis notas .
